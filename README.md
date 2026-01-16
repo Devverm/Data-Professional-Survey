@@ -49,4 +49,4 @@ This project centers on an interactive Power BI dashboard developed from a compr
 
 ### 8️⃣ Screenshots
 ## 🖼 Dashboard Preview
-(https://github.com/Devverm/Airbnb-Listings-Data-of-Chicago-and-New-Orleans-Dashboard/blob/main/Screenshot%20of%20Dashboard.png)
+(https://github.com/Devverm/Data-Professional-Survey/blob/main/Screenshot%20of%20Dashboard.png)
